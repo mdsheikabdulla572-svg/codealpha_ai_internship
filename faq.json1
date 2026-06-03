@@ -1,0 +1,14 @@
+[
+  {
+    "question": "what is ai",
+    "answer": "AI means Artificial Intelligence."
+  },
+  {
+    "question": "what is python",
+    "answer": "Python is a programming language."
+  },
+  {
+    "question": "who are you",
+    "answer": "I am a simple chatbot created for CodeAlpha internship."
+  }
+]

@@ -1,0 +1,18 @@
+# CodeAlpha Chatbot Project 🤖
+
+This is a simple chatbot project built using Python.
+
+## Features
+- Answers basic questions
+- Uses FAQ dataset
+- Easy to run
+
+## How to Run
+1. Install Python
+2. Run the program:
+   python chatbot.py
+
+## Example Questions
+- what is ai
+- what is python
+- who are you
