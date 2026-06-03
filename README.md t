@@ -1,0 +1,28 @@
+# 🤖 Smart Translation Chatbot
+
+Simple Python chatbot that:
+- Replies to greetings 👋
+- Translates text 🌐
+
+## 🚀 எப்படி run பண்ணுவது?
+
+1. Install:
+pip install -r requirements.txt
+
+2. Run:
+python app.py
+
+## 💡 Example
+
+You: hello  
+Bot: வணக்கம்  
+
+You: good morning  
+Bot: காலை வணக்கம்  
+
+You: I love coding  
+Bot: (Tamil translation)
+
+## 🛠️ Used
+- Python
+- deep-translator
