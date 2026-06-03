@@ -1,4 +1,4 @@
-# CodeAlpha Translation tool Project 🤖
+# CodeAlpha Translation tool & chatbot Project 🤖
 
 This is a simple chatbot built using Python.
 
